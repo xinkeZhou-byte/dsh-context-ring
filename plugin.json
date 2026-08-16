@@ -1,0 +1,14 @@
+{
+  "name": "dsh-context-ring",
+  "version": "1.0.0",
+  "description": "DeepSeek Harness 上下文圆环增强插件：按北京时间高峰/空闲时段变色，悬浮提示与面板显示时段和 DeepSeek 余额（随 WebUI 配置动态解析）。",
+  "plugin": {
+    "idPrefix": "ring",
+    "displayName": "dsh-context-ring"
+  },
+  "files": {
+    "host": "code.host.js",
+    "client": "code.client.js"
+  },
+  "license": "MIT"
+}
