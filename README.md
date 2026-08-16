@@ -2,6 +2,10 @@
 
 DeepSeek Harness 上下文圆环增强插件 —— 让输入框旁的上下文占用圆环（ContextMeter）**按北京时间高峰/空闲时段变色**，并在悬浮提示与展开面板中显示**当前时段**和 **DeepSeek 账户余额**。
 
+![plugin](https://img.shields.io/badge/DSH-Cordis%20Plugin-blue)
+![version](https://img.shields.io/badge/version-v1.0.0-brightgreen)
+![license](https://img.shields.io/badge/license-MIT-green)
+
 ## 功能一览
 
 | 位置 | 效果 |
